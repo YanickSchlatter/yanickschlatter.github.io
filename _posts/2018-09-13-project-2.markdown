@@ -2,14 +2,13 @@
 title: Casino Royale
 subtitle: Java Applikation
 layout: default
-modal-id: 1
+modal-id: 3
 date: 2018-09-12
 img: casinoRoyale2.png
-thumbnail: casinoRoyale.png
+thumbnail: casino-logo.png
 alt: image-alt
 project-date: April 2018
 client: Dokumentation
 category: Java mit JavaFaces
 description: An den erstmaligen BBB Programmierwochen durfte ich, in einem fünfköpfigem Team, eine vollwärtiges Programm umsetzten. Das ganze wurde nach IPA Vorgaben dokumentiert und bewertet. Meine Gruppe konnte das ganze mit einer best Note, unter allen Teilnehmern, von 5.5 abschliessen.
-
 ---
