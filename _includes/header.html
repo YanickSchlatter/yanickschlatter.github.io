@@ -1,3 +1,27 @@
+<!-- Java Script -->
+<script >
+$(document).ready(function(){
+
+  var count = 0;
+  var images = ["{{ site.baseurl }}/img/header-bg.jpg"];
+  var image = $(".fader");
+
+  image.css("background-image","url("+images[count]+")");
+
+  setInterval(function(){
+    image.fadeOut(500, function(){
+      image.css("background-image","url("+images[count++]+")");
+      image.fadeIn(500);
+    });
+    if(count == images.length)
+    {
+      count = 0;
+    }
+  },5000);
+
+});
+</script>
+
 <!-- Navigation -->
     <nav class="navbar navbar-default navbar-fixed-top">
         <div class="container">
@@ -19,16 +43,16 @@
                         <a href="#page-top"></a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="#services">EDV-Fähigkeiten</a>
+                        <a class="page-scroll" href="#team">Person</a>
                     </li>
                     <li>
                         <a class="page-scroll" href="#portfolio">Projekte</a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="#about">Bildung</a>
+                        <a class="page-scroll" href="#services">EDV-Fähigkeiten</a>
                     </li>
                     <li>
-                        <a class="page-scroll" href="#team">Person</a>
+                        <a class="page-scroll" href="#about">Bildung</a>
                     </li>
                     <li>
                         <a class="page-scroll" href="#contact">Contact</a>
@@ -40,13 +64,16 @@
         <!-- /.container-fluid -->
     </nav>
 
+<!-- Carusel -->
+
+    <div class="fader"></div>
+
+
     <!-- Header -->
     <header>
         <div class="container">
             <div class="intro-text">
-                <div class="intro-lead-in">Welcome To my Webside!</div>
-                <div class="intro-heading">It's Nice To Meet You</div>
-                <a href="#services" class="page-scroll btn btn-xl">Tell Me More</a>
+               
             </div>
         </div>
     </header>
