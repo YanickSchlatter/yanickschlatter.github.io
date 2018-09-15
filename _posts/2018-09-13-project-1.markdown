@@ -10,5 +10,5 @@ alt: image-alt
 project-date: August 2018
 client: Link
 category: JQuerry, Bootstrap und HTML
-description: Im Modul 152 haben wir eine Webseite erstellt und zum ersten Mal haben wir JQuerry eingebunden. Es hat ganz viele verschiedne Elemente auf der Webseite.
+description: Im Modul 152 haben wir eine Webseite erstellt und zum ersten Mal mit JQuerry darauf gearbeitet. Wir haben Audio, sowie Video player erstellt und erweitert. Am besten sehen Sie es sich selbst an.
 ---

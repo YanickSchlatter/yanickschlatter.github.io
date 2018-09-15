@@ -18,7 +18,7 @@
 }
 @keyframes typewriter{
   from{width: 0;}
-  to{width: 19em;}
+  to{width: 21em;}
 }
 @keyframes blinkTextCursor{
   from{border-right-color: #e2a412;}

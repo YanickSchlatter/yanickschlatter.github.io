@@ -10,5 +10,5 @@ alt: image-alt
 project-date: Herbst 2018
 client: Link
 category: Web Shop für Mini Unternehmen
-description: Ich und ein vierköpfiges Team, haben das Problem erkannt, dass Miniunternehmen nicht viel Zeit und Geld für ihren Webshop aufwenden können. Deshalb möchten wir mit einer kostengünstigen, eigensgehosteten und selbstprogrammierten Lösung unter die Arme greifen. Damit die Unternehmen es einfacher haben ihre Online Verkäufe zu erledigen.
+description: Ich und ein vierköpfiges Team, haben das Problem erkannt, dass Miniunternehmen nicht viel Zeit und Geld für ihren Webshop aufwenden können. Deshalb möchten wir mit einer kostengünstigen, eigens gehosteten und selbst programmierten Lösung unter die Arme greifen. Damit die Unternehmen es einfacher haben ihre Online Verkäufe zu erledigen.
 ---

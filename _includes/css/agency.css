@@ -640,7 +640,8 @@ section h3.section-subheading {
 
 .team-member img {
     margin: center;
-    border: 7px solid #fff;
+    border: 7px solid #000;
+    width: 30%;
 }
 
 .team-member h4 {
