@@ -7,6 +7,7 @@ date: 2018-09-13
 img: shop4mini.png
 thumbnail: webshop-logo.png
 alt: image-alt
+urlLink: https://web4mini.com/
 project-date: Herbst 2018
 client: Link
 category: Web Shop für Mini Unternehmen
