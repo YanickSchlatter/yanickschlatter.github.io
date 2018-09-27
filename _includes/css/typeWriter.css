@@ -9,7 +9,8 @@
     font-size: 300%;
     white-space: nowrap;
     overflow: hidden;
-    transform: translateY(-50%);    
+    transform: translateY(-50%);   
+    width: 50px; 
 }
 
 .anim-typewriter{
