@@ -12,16 +12,23 @@
     transform: translateY(-50%);   
     width: 50px; 
 }
-
 .anim-typewriter{
-  animation: typewriter 4s steps(44) 1.5s 1 normal both,
+  animation: typewriter 1s steps(44) 1s 1 normal both,
              blinkTextCursor 1000ms steps(44) infinite normal;
 }
 @keyframes typewriter{
   from{width: 0;}
-  to{width: 21em;}
+  to{width: 8em;}
 }
 @keyframes blinkTextCursor{
   from{border-right-color: #e2a412;}
   to{border-right-color: transparent;}
+}
+
+#typing_text{
+
+}
+
+#main1{
+
 }
