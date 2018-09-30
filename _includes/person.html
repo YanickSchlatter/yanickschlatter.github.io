@@ -2,18 +2,20 @@
     <section id="team" class="bg-light-gray">
          
         <div class="container">
-            <div class="abstandKlein">
-                   
-            </div>
             <div class="row">
                 {% for member in site.people %}
                 
                     <div class="team-member">
+                        <h1 class="text-primary">{{ member.name }}</h1>
+                        <div class="abstandKlein"></div>
+
                         <img src="img/team/{{ member.pic }}.jpg" class="img" alt="">
-                        <h2>{{ member.name }}</h2>
+
+                        <div id="marginMember">
                         <h4 class="text-muted">{{ member.position }}</h4>
                         <h4 class="text-muted">Bergstrasse 669</h4>
                         <h4 class="text-muted">5728 Gontenschwil</h4>
+                        </div>
                         <!-- <ul class="list-inline social-buttons">
                             {% for line in member.address %}
                             <li>
