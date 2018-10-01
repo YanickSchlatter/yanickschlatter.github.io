@@ -7,7 +7,10 @@ date: 2018-09-13
 img: shop4mini.png
 thumbnail: webshop-logo.png
 alt: image-alt
-urlLink: https://web4mini.com/
+urlLink1: https://web4mini.com/
+urlLink2: http://83.78.191.164/wordpress/
+textLink1: Hauptseite von web4mini
+textLink2: Shop für Unternehmen
 project-date: Herbst 2018
 client: Link
 category: Web Shop für Mini Unternehmen

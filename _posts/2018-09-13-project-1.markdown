@@ -7,7 +7,8 @@ date: 2018-09-12
 img: jquerry.png
 thumbnail: jquery-logo.png
 alt: image-alt
-urlLink: https://github.com/YanickSchlatter/ProjectPage
+urlLink1: https://github.com/YanickSchlatter/ProjectPage
+textLink1: Link zu meiner ProjectPage
 project-date: August 2018
 client: Link
 category: JQuerry, Bootstrap und HTML
