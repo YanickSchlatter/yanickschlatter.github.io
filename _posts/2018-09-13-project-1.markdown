@@ -1,6 +1,6 @@
 ---
 title: Projectpage
-subtitle: Webseite mit JQuerry
+subtitle: Webseite mit JQuery
 layout: default
 modal-id: 1
 date: 2018-09-12
